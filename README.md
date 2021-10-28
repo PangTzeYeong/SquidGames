@@ -1,5 +1,4 @@
 # SquidGames
 Project Squid Games
 
-Test commit
-Stage, Commit, Push
+Check out Project Squid Games @ [www.squidgames.fun](https://www.squidgames.fun)
